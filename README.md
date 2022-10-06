@@ -61,7 +61,7 @@ plt.ylabel("loss")
 
 ## Output:
 ![image](WhatsApp Image 2022-10-06 at 08.56.34.jpeg)
-![image](![image](https://user-images.githubusercontent.com/108709865/194207722-528bf515-272d-41dc-94db-e5a6b1b9d3ae.png))
+![image](WhatsApp Image 2022-10-06 at 08.57.02.jpeg)
 
 
 
