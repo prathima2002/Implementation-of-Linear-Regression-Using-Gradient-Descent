@@ -8,6 +8,7 @@ To write a program to predict the profit of a city using the linear regression m
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+```
 1. Start the program
 2.Import the numpy.pandas and matplotlib
 3.Read the file which store the data
@@ -16,7 +17,7 @@ To write a program to predict the profit of a city using the linear regression m
 6.Find the best fit using the straight line formula
 7.Display the data in graph using the matplotlib libraries
 8.Stop the Program.
-
+```
 ## Program:
 ```
 /*
